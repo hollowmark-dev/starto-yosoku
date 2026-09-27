@@ -1,0 +1,5 @@
+/* VERBATIM from publish/disclaimer.md -- do not reword.
+   Regenerate with build_site.py; tests/check_publish.py
+   verifies these strings still match the source exactly. */
+const DISCLAIMER_INTRO="このサイトに表示される顔は、すべて実在しない人物の顔です。\nSTARTO ENTERTAINMENTのタレントの写真は、一切使用していません。\n\n個人が制作した非公式のファンサイトです。";
+const DISCLAIMER_DETAIL="### このサイトは何か\n\n実在しない人物の顔を見比べていただき、好みの傾向を推定して、STARTO ENTERTAINMENTのタレントの中から、傾向の近い3人をさがすツールです。\n\n### 表示される顔について\n\n画像生成モデル（RealVisXL V4.0 / ライセンス: CreativeML Open RAIL++-M）で生成した、実在しない人物の顔です。\n\nSTARTO ENTERTAINMENTのタレントの写真は、モデルの学習にも顔の生成にも一切使用していません。\n\n生成した顔が実在のタレントに似ていないことを機械的に確認し、基準を超えたものは除外しています。\n\n### タレントの扱いについて\n\n結果画面では、氏名・グループ名と公式プロフィールへのリンクのみを表示します。写真は掲載していません。\n\nタレントの容姿を点数化したり、順位をつけたりするものではありません。\n\n### 集めているデータについて\n\n精度向上のため、各問で表示した顔と選んだ顔・（任意で入力された場合の）推し3人・結果でお見せした3人を匿名で記録しています。氏名やメールアドレスなど、個人を特定できる情報は収集していません。データはGoogleのサービスに保存されます。\n\n集めたデータを、タレントの人気ランキングなどの形で公開することはありません。\n\n推しの入力は任意です。スキップしても結果は表示されます。\n\n### 権利について・ご連絡\n\n非公式のファン制作物です。STARTO ENTERTAINMENTとは関係ありません。\n\n権利者の方からご要請があれば、ただちに公開を停止します。\n\nご連絡は X: @nooton123 のDMまで。";
