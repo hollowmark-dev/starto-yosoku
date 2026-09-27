@@ -19,5 +19,5 @@
 const CONFIG = {
   brand: "STARTO推し予測",
   siteUrl: "https://hollowmark-dev.github.io/starto-yosoku/",
-  endpoint: ""
+  endpoint: "https://script.google.com/macros/s/AKfycbw_R-XdCx0d74cEUBsddbKrmLtmiH-OIZ8QqbUOzkCQCTvrbtFGiEnXp67nMLm5De4dCA/exec"
 };
